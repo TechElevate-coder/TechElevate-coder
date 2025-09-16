@@ -83,13 +83,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechElevate-coder&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=TechElevate-coder&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TechElevate-coder&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=TechElevate-coder&theme=radical" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TechElevate-coder&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TechElevate-coder&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 
 ---
