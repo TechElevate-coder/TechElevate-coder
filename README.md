@@ -66,17 +66,17 @@
 ### 🧠 Mental Health & Wellness Web App for Students
 - **Description:** Designed to promote student wellbeing with accessible resources and interactive features
 - **Tech Stack:** React, Node.js, MySQL, CSS animations
-- **[View Project](https://github.com/TechElevate-coder/mental-health-app)**
+
 
 ### 🏛️ University Marketplace Web App
 - **Description:** Platform for students to buy, sell, and exchange goods within their campus community
 - **Tech Stack:** JavaScript, Firebase, HTML/CSS
-- **[View Project](https://github.com/TechElevate-coder/university-marketplace)**
+
 
 ### 📊 Academic Performance Tracker & GPA Goal Planner
 - **Description:** Helps students monitor grades, set GPA targets, and align with scholarship goals
 - **Tech Stack:** Python, Pandas, Data Visualization
-- **[View Project](https://github.com/TechElevate-coder/gpa-planner)**
+
 
 ---
 
