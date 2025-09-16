@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techelevate-coder&label=Profile%20views&color=0e75b6&style=flat" alt="techelevate-coder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techelevate-coder" alt="techelevate-coder" /></a> </p>
+
 
 - 🔭 I’m currently working on **Mental Health and Wellness Web App for Students**
 
