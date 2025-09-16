@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TechElevate-coder</h1>
+<h1 align="center">Hi 👋, I'm TechElevate_coder</h1>
 <h3 align="center">I’m passionate about building scalable, user-friendly applications that combine clean code, strong design, and efficient performance. My journey in tech has been shaped by curiosity and a drive to continuously learn from mastering JavaScript and Python to exploring frameworks, algorithms, PowerBI and modern web development practices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techelevate-coder&label=Profile%20views&color=0e75b6&style=flat" alt="techelevate-coder" /> </p>
