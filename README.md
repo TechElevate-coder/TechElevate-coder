@@ -114,7 +114,7 @@
   <a href="mailto:techelevate82@gmail.com">
     <img src="https://img.shields.io/badge/Email-techelevate82@gmail.com-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/jonathan-annan">
     <img src="https://img.shields.io/badge/LinkedIn-Jonathan-0077B5?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://portfolio-website.com">
